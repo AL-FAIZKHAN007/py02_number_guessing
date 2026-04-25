@@ -18,7 +18,7 @@ git clone https://github.com/AL-FAIZKHAN007/py02_number_guessing.git
 2. Navigate to the project directory:<br>
 cd py02_number_guessing
 3. Run the script:<br>
-python guess_number.py
+python3.13 guess_number.py
 ## How to Play
 1. Choose a difficulty level (1, 2 or 3)
 2. Guess the number within the given attempts
